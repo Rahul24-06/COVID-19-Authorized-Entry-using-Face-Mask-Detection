@@ -226,4 +226,5 @@ Some of the example images are shown below.
 ## Working of the Project 🔭
 
 To test the real-time scenario, we deployed it on one of the rooms to test how possibly it could be used and the results were pretty affirmative.
-https://youtu.be/2lwCU4bWY0c
+
+[![Working Video](./images/youtube.png)](https://youtu.be/2lwCU4bWY0c "Working of the Project - Click to Watch!")
