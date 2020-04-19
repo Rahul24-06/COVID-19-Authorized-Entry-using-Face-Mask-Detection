@@ -55,11 +55,8 @@ The Industrial grade Light Indicators and Buzzer are used to show the status and
 | Relay Board            |  Jetson Nano  |
 |-----------------------|---------------|
 | Vcc |  +5V |
-|-----------------------|---------------|
 | IN1 (Pass Light) |  18 |
-|-----------------------|---------------|
 | IN2 (Alert Light & Buzzer) |  23 |
-|-----------------------|---------------|
 | GND |  GND |
 
 The Industrial grade Light Indicators and Buzzer are connected to the GPIOs of the Jetson Nano.
@@ -225,6 +222,6 @@ Some of the example images are shown below.
 
 ## Working of the Project 🔭
 
-To test the real-time scenario, we deployed it on one of the rooms to test how possibly it could be used and the results were pretty affirmative.
+To test the real-time scenario, we deployed it on one of the rooms to test how possibly it could be used and the results were pretty affirmative.   https://youtu.be/2lwCU4bWY0c
 
 [![Working Video](./images/youtube.png)](https://youtu.be/2lwCU4bWY0c "Working of the Project - Click to Watch!")
