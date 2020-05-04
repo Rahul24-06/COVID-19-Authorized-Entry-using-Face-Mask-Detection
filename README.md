@@ -225,3 +225,13 @@ Some of the example images are shown below.
 To test the real-time scenario, we deployed it on one of the rooms to test how possibly it could be used and the results were pretty affirmative.   https://youtu.be/2lwCU4bWY0c
 
 [![Working Video](./images/youtube.png)](https://youtu.be/2lwCU4bWY0c "Working of the Project - Click to Watch!")
+
+
+*If you faced any issues in building this project, feel free to ask me. Please do suggest new projects that you want me to do next.*
+
+*Share this video if you like.*
+
+*Happy to have you subscribed: https://www.youtube.com/c/rahulkhanna24june?sub_confirmation=1*
+
+**Thanks for reading!**
+
